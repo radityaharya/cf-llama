@@ -16,6 +16,6 @@
   "dependencies": {
     "@cloudflare/ai": "^1.0.50",
     "@pinecone-database/pinecone": "^1.1.2",
-    "hono": "^3.11.10"
+    "hono": "^4.2.7"
   }
 }
